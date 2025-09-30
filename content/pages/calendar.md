@@ -101,11 +101,11 @@ Group annotation due: {{% resource_link "2062b99d-ebc1-4e84-adde-bc0413a60006" "
 
 #### Session 22: A Contemporary Samurai Film
 
-In-class viewing: {{% resource_link "134e5957-5a67-4271-be9f-1ba6061ead6b" "*The Hidden Blade*" %}} (2004, Yōji Yamada, dir.)
+In-class viewing: [*The Hidden Blade*](https://www.imdb.com/title/tt0442286/?ref_=fn_al_tt_1) (2004, Yōji Yamada, dir.)
 
 #### Session 23: “Samurai” Today
 
-In-class viewing: {{% resource_link "134e5957-5a67-4271-be9f-1ba6061ead6b" "*The Hidden Blade*" %}} (2004, Yōji Yamada, dir.)
+In-class viewing: [*The Hidden Blade*](https://www.imdb.com/title/tt0442286/?ref_=fn_al_tt_1) (2004, Yōji Yamada, dir.)
 
 ### Week 14: Final Essay Prep Week
 
