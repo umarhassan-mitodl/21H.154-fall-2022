@@ -43,7 +43,7 @@ For week 7's annotation exercise, we will annotate the same set of texts ("Code 
 3. For each of your two laws, explain why, to the best of your knowledge, you think it might help the Tokugawa Shogunate consolidate its rule over Japan. If you have any questions or misgivings about the law, you may also note that in the comment.
 4. If someone else has already chosen to annotate your preferred law, choose another one that hasn't been chosen yet!
 
-To start annotating, visit [Kami](https://www.kamiapp.com/).
+To start annotating, visit {{% resource_link "c27e42fd-0791-4e78-8780-ee316da31f92" "Kami" %}}.
 
 ## Historical Perspectives on the Akō Incident
 
@@ -70,6 +70,6 @@ We will annotate *The Autobiography of Baron Chōkichi Kikkawa* as a class. Plea
 3. For each of your two highlighted passages, briefly explain your choice using the comment function.
 4. \*\*\*If someone else has already chosen to annotate your preferred passage, **choose a different passage!**
 
-To start annotating, visit [Kami](https://www.kamiapp.com/).
+To start annotating, visit {{% resource_link "c27e42fd-0791-4e78-8780-ee316da31f92" "Kami" %}}.
 
 This response is due during session 20.

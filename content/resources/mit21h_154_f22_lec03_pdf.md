@@ -5,8 +5,6 @@ draft: false
 file: /courses/21h-154-inventing-the-samurai-fall-2022/mit21h_154_f22_lec03.pdf
 file_size: 3623207
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

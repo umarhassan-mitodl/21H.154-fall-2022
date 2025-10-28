@@ -13,7 +13,7 @@ Lectures: 2 sessions / week, 2.5 hours / session
 
 There are no prerequisites for this course.
 
-Note: This subject meets with 21G.554. For those students, the prerequisite is [*21G.504 Japanese IV*](https://ocw.mit.edu/courses/21g-504-japanese-iv-spring-2020/) or the permission of the instructor.
+Note: This subject meets with 21G.554. For those students, the prerequisite is {{% resource_link "fd8b7452-4d51-407a-af45-223f1e6c6a29" "*21G.504 Japanese IV*" %}} or the permission of the instructor.
 
 ## Course Description
 

@@ -40,7 +40,7 @@ Your essay should be formatted in the following manner:
 
 ### Citations
 
-Cite sources in footnotes in accordance with the [Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html). Your citation should identify the title of the specific document you’re citing, its author (if available), the citation information for the book your document comes from, and, most importantly, the page number of the passage you’re citing.
+Cite sources in footnotes in accordance with the {{% resource_link "d2051717-6309-4d56-936b-88a744c53aa6" "Chicago Manual of Style" %}}. Your citation should identify the title of the specific document you’re citing, its author (if available), the citation information for the book your document comes from, and, most importantly, the page number of the passage you’re citing.
 
 ### Additional Essay Tips
 
